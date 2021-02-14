@@ -4,3 +4,7 @@ This a clone for Tetris game with all features of level 1, The game was develope
 Team :
 Rania Daoud https://github.com/Rania-Daoud
 Alaa Elkzaz https://github.com/leoelkzaz
+
+The video:
+
+https://www.youtube.com/watch?v=pfy___pYUZQ
